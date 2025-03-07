@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+checkstyle-idea.xml
+misc.xml
+modules.xml
+trial-iOS-app.iml
+vcs.xml
+
